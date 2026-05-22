@@ -26,7 +26,7 @@ Most modern editors are built like operating systems — massive, slow, and comp
 
 ## 📹 See It In Action
 
-![Owl Editor Demo](editor.gif)
+![Owl Editor Demo](./editor.gif)
 
 
 ---
