@@ -26,7 +26,7 @@ Most modern editors are built like operating systems — massive, slow, and comp
 
 ## 📹 See It In Action
 
-<video src="./editor.mp4" controls width="100%"></video>
+<video src="editor.mp4" controls width="100%"></video>
 
 ---
 
